@@ -1,0 +1,75 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/DonBaCat/DonBaCat.github.io.git" resolutions="1x" timestamp="1578657283813">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="257926381" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="master vision1.jpg" crc="462062119" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-1.png" crc="3517338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u577-14.png" crc="459828268" ref="index"/>
+    <file name="u738-16.png" crc="92458820" ref="index"/>
+    <file name="u922-9.png" crc="48151824" ref="index"/>
+    <file name="cat food.gif" crc="479149862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moon energy bar release.gif" crc="3838353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog stand.gif" crc="4001410612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grilled fish.gif" crc="51288470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moon energy bar recover.gif" crc="411697390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="big spike.png" crc="3781992817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beef can.gif" crc="4078098653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small spike.png" crc="4151469911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satiety.gif" crc="354355578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stand.gif" crc="3917855352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dash.gif" crc="3874971955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u981-12.png" crc="4040642627" ref="index"/>
+    <file name="sky.jpg" crc="220132555" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1024-9.png" crc="4133542090" ref="index"/>
+    <file name="貼上的影像 460x215.jpg" crc="3973717597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 460x2152.jpg" crc="4019065816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master vision12.jpg" crc="4289780343" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="352305007" seo="true" mt="1578653187794" redirect="true"/>
+</manifest>
